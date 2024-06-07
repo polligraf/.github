@@ -1,4 +1,4 @@
 Polligraf
 =========
 
-Polligraf is coming soon... strap yourself up!
+Polligraf is coming soon...
